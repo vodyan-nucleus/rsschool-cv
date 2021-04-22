@@ -41,11 +41,9 @@ func updateHistory () {
  ```
  
  ### Experience:
- 
  I developed Realt Agency App using Core Data and Firebase. It was my coursework for university. Also I am developing Caclculator App with history and scintific functions now.
  
  ### Education:
- 
  Belarusian State University of Informatics and Radioelectronics 
  Internetional House English Courses
  
