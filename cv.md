@@ -2,7 +2,9 @@
 
 ### Contact Info:
 **Yauheni Vadzianovich**
+
 **Email:** vodyanovich01@icloud.com
+
 **Discord:** VODYAN#4473
 
 ### Skills:
